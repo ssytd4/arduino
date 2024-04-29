@@ -1,0 +1,1209 @@
+Data logging initiated - 29/04/2024
+Location - Nottingham
+
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 26.25 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 26.25 C
+Minute 0
+	Temperature 27.71 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 28.69 C
+Minute 0
+	Temperature 26.74 C
+Minute 0
+	Temperature 26.25 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 24.29 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 27.71 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 23.31 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 23.80 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 27.71 C
+Minute 0
+	Temperature 27.71 C
+Minute 0
+	Temperature 28.69 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 26.74 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 26.25 C
+Minute 0
+	Temperature 26.74 C
+Minute 0
+	Temperature 27.71 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 26.74 C
+Minute 0
+	Temperature 26.74 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 25.27 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 26.74 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 25.76 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 24.78 C
+Minute 0
+	Temperature 26.25 C
+Minute 0
+	Temperature 27.22 C
+Minute 0
+	Temperature 26.74 C
+Minute 1
+	Temperature 27.22 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 24.78 C
+Minute 1
+	Temperature 23.31 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 27.71 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 24.78 C
+Minute 1
+	Temperature 24.29 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 24.78 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 26.74 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 27.71 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 27.22 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 27.71 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 28.69 C
+Minute 1
+	Temperature 27.22 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 28.20 C
+Minute 1
+	Temperature 27.71 C
+Minute 1
+	Temperature 24.78 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 25.76 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 27.22 C
+Minute 1
+	Temperature 25.27 C
+Minute 1
+	Temperature 26.25 C
+Minute 1
+	Temperature 24.78 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 24.78 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 28.20 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 27.71 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 24.78 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 24.78 C
+Minute 2
+	Temperature 24.78 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 27.71 C
+Minute 2
+	Temperature 25.27 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 28.20 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 24.29 C
+Minute 2
+	Temperature 27.71 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 25.27 C
+Minute 2
+	Temperature 24.29 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 28.20 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 25.27 C
+Minute 2
+	Temperature 25.27 C
+Minute 2
+	Temperature 27.71 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 24.78 C
+Minute 2
+	Temperature 23.80 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 26.74 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 28.20 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 28.20 C
+Minute 2
+	Temperature 25.76 C
+Minute 2
+	Temperature 27.22 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 28.20 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 26.25 C
+Minute 2
+	Temperature 28.20 C
+Minute 3
+	Temperature 26.25 C
+Minute 3
+	Temperature 28.69 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 28.69 C
+Minute 3
+	Temperature 23.80 C
+Minute 3
+	Temperature 26.25 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 24.29 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 23.31 C
+Minute 3
+	Temperature 28.20 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 26.74 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 28.69 C
+Minute 3
+	Temperature 23.80 C
+Minute 3
+	Temperature 24.29 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 24.78 C
+Minute 3
+	Temperature 26.74 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 27.22 C
+Minute 3
+	Temperature 24.78 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 23.80 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 27.22 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 24.78 C
+Minute 3
+	Temperature 24.78 C
+Minute 3
+	Temperature 27.22 C
+Minute 3
+	Temperature 28.20 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 23.80 C
+Minute 3
+	Temperature 28.69 C
+Minute 3
+	Temperature 26.74 C
+Minute 3
+	Temperature 26.74 C
+Minute 3
+	Temperature 24.29 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 28.20 C
+Minute 3
+	Temperature 25.27 C
+Minute 3
+	Temperature 24.78 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 23.31 C
+Minute 3
+	Temperature 27.71 C
+Minute 3
+	Temperature 26.74 C
+Minute 3
+	Temperature 26.25 C
+Minute 3
+	Temperature 26.74 C
+Minute 3
+	Temperature 25.76 C
+Minute 3
+	Temperature 24.78 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 27.22 C
+Minute 4
+	Temperature 24.78 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 23.31 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 27.22 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 23.31 C
+Minute 4
+	Temperature 26.74 C
+Minute 4
+	Temperature 27.71 C
+Minute 4
+	Temperature 25.76 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 24.78 C
+Minute 4
+	Temperature 27.71 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 26.74 C
+Minute 4
+	Temperature 27.71 C
+Minute 4
+	Temperature 25.76 C
+Minute 4
+	Temperature 27.71 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 26.74 C
+Minute 4
+	Temperature 26.74 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 24.78 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 25.76 C
+Minute 4
+	Temperature 27.22 C
+Minute 4
+	Temperature 26.74 C
+Minute 4
+	Temperature 24.29 C
+Minute 4
+	Temperature 25.76 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 23.80 C
+Minute 4
+	Temperature 23.31 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 27.22 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 24.78 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 25.76 C
+Minute 4
+	Temperature 27.22 C
+Minute 4
+	Temperature 27.22 C
+Minute 4
+	Temperature 25.76 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 26.25 C
+Minute 4
+	Temperature 23.80 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 25.27 C
+Minute 4
+	Temperature 28.20 C
+Minute 4
+	Temperature 27.71 C
+Minute 4
+	Temperature 27.71 C
+Minute 4
+	Temperature 27.71 C
+Minute 5
+	Temperature 27.71 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 25.27 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 24.29 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 27.71 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 27.71 C
+Minute 5
+	Temperature 24.78 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 25.27 C
+Minute 5
+	Temperature 26.74 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 27.71 C
+Minute 5
+	Temperature 26.74 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 27.22 C
+Minute 5
+	Temperature 24.78 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 27.22 C
+Minute 5
+	Temperature 23.31 C
+Minute 5
+	Temperature 26.74 C
+Minute 5
+	Temperature 26.74 C
+Minute 5
+	Temperature 24.29 C
+Minute 5
+	Temperature 27.22 C
+Minute 5
+	Temperature 25.27 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 26.74 C
+Minute 5
+	Temperature 27.71 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 26.74 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 25.27 C
+Minute 5
+	Temperature 27.22 C
+Minute 5
+	Temperature 27.71 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 26.25 C
+Minute 5
+	Temperature 28.20 C
+Minute 5
+	Temperature 25.27 C
+Minute 5
+	Temperature 24.29 C
+Minute 5
+	Temperature 25.27 C
+Minute 5
+	Temperature 25.76 C
+Minute 5
+	Temperature 24.29 C
+Minute 5
+	Temperature 26.74 C
+Minute 6
+	Temperature 25.76 C
+Minute 6
+	Temperature 27.71 C
+Minute 6
+	Temperature 25.76 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 28.69 C
+Minute 6
+	Temperature 25.76 C
+Minute 6
+	Temperature 27.71 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 28.20 C
+Minute 6
+	Temperature 28.20 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 27.22 C
+Minute 6
+	Temperature 28.20 C
+Minute 6
+	Temperature 28.20 C
+Minute 6
+	Temperature 27.22 C
+Minute 6
+	Temperature 28.69 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 28.69 C
+Minute 6
+	Temperature 27.22 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 27.22 C
+Minute 6
+	Temperature 27.71 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 27.22 C
+Minute 6
+	Temperature 28.69 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 28.20 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 25.76 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 25.76 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 26.25 C
+Minute 6
+	Temperature 28.20 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 27.71 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 29.18 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 27.22 C
+Minute 6
+	Temperature 26.74 C
+Minute 6
+	Temperature 25.27 C
+Minute 6
+	Temperature 25.76 C
+Minute 6
+	Temperature 24.78 C
+Minute 6
+	Temperature 27.22 C
+Minute 7
+	Temperature 26.25 C
+Minute 7
+	Temperature 28.20 C
+Minute 7
+	Temperature 27.22 C
+Minute 7
+	Temperature 28.69 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 27.71 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 25.76 C
+Minute 7
+	Temperature 26.25 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 26.25 C
+Minute 7
+	Temperature 28.20 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 27.22 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 28.20 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 28.20 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 24.29 C
+Minute 7
+	Temperature 25.76 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 27.71 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 27.22 C
+Minute 7
+	Temperature 27.71 C
+Minute 7
+	Temperature 24.29 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 27.71 C
+Minute 7
+	Temperature 23.80 C
+Minute 7
+	Temperature 27.71 C
+Minute 7
+	Temperature 28.20 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 29.18 C
+Minute 7
+	Temperature 27.22 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 25.76 C
+Minute 7
+	Temperature 28.69 C
+Minute 7
+	Temperature 26.25 C
+Minute 7
+	Temperature 27.71 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 28.69 C
+Minute 7
+	Temperature 25.76 C
+Minute 7
+	Temperature 28.69 C
+Minute 7
+	Temperature 25.76 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 26.25 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 24.29 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 28.20 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 26.25 C
+Minute 7
+	Temperature 25.27 C
+Minute 7
+	Temperature 24.78 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 26.74 C
+Minute 7
+	Temperature 26.74 C
+Minute 8
+	Temperature 25.76 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 27.22 C
+Minute 8
+	Temperature 24.78 C
+Minute 8
+	Temperature 26.25 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 23.80 C
+Minute 8
+	Temperature 24.78 C
+Minute 8
+	Temperature 26.25 C
+Minute 8
+	Temperature 27.22 C
+Minute 8
+	Temperature 23.80 C
+Minute 8
+	Temperature 25.27 C
+Minute 8
+	Temperature 23.80 C
+Minute 8
+	Temperature 23.80 C
+Minute 8
+	Temperature 28.69 C
+Minute 8
+	Temperature 25.27 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 28.20 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 23.31 C
+Minute 8
+	Temperature 25.76 C
+Minute 8
+	Temperature 25.27 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 28.20 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 23.31 C
+Minute 8
+	Temperature 27.22 C
+Minute 8
+	Temperature 25.76 C
+Minute 8
+	Temperature 27.22 C
+Minute 8
+	Temperature 25.27 C
+Minute 8
+	Temperature 28.20 C
+Minute 8
+	Temperature 26.25 C
+Minute 8
+	Temperature 24.78 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 25.76 C
+Minute 8
+	Temperature 26.25 C
+Minute 8
+	Temperature 25.76 C
+Minute 8
+	Temperature 26.25 C
+Minute 8
+	Temperature 24.29 C
+Minute 8
+	Temperature 22.83 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 24.78 C
+Minute 8
+	Temperature 27.22 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 24.78 C
+Minute 8
+	Temperature 23.80 C
+Minute 8
+	Temperature 25.76 C
+Minute 8
+	Temperature 24.78 C
+Minute 8
+	Temperature 27.71 C
+Minute 8
+	Temperature 28.20 C
+Minute 8
+	Temperature 26.74 C
+Minute 8
+	Temperature 27.71 C
+Minute 9
+	Temperature 26.25 C
+Minute 9
+	Temperature 23.80 C
+Minute 9
+	Temperature 26.74 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 27.22 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 26.74 C
+Minute 9
+	Temperature 26.74 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 24.78 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 26.74 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 27.22 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 23.31 C
+Minute 9
+	Temperature 24.29 C
+Minute 9
+	Temperature 24.29 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 28.20 C
+Minute 9
+	Temperature 26.25 C
+Minute 9
+	Temperature 23.80 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 28.20 C
+Minute 9
+	Temperature 24.78 C
+Minute 9
+	Temperature 23.31 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 27.22 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 26.74 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 24.78 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 22.83 C
+Minute 9
+	Temperature 26.25 C
+Minute 9
+	Temperature 24.29 C
+Minute 9
+	Temperature 26.74 C
+Minute 9
+	Temperature 24.78 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 24.29 C
+Minute 9
+	Temperature 26.25 C
+Minute 9
+	Temperature 28.20 C
+Minute 9
+	Temperature 25.76 C
+Minute 9
+	Temperature 25.27 C
+Minute 9
+	Temperature 27.22 C
+Minute 9
+	Temperature 26.25 C
+Minute 9
+	Temperature 27.71 C
+Minute 9
+	Temperature 25.76 C
+
+Max temp 29.18 C
+Min temp 22.83 C
+Average temp 26.27 C
+
+Data logging terminated
